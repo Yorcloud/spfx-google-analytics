@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="GoogleAnalyticsForSpo"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="89741a8e-baa9-44af-a0ed-6f1cee33f97b"
+        ClientSideComponentProperties="{&quot;trackingID&quot;:&quot;UA-203323014-1&quot;}">
+    </CustomAction>
+</Elements>
